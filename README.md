@@ -11,7 +11,7 @@ You will need to build the following views with React
 
 Which must contain:
 
-- A list of users showing their name, email and phone number
+- A list of users showing their first_name, second_name, email, avatar
 - A button to add a new user (this button should redirect to the user creation view)
 - A button to edit an existing user (this button should redirect to the user edition view)
 - A button to delete an existing user (this button should delete the user and refresh the list)
@@ -38,7 +38,6 @@ We will not evaluate the design of the application, but we will evaluate the cod
 software engineering best practices that demonstrate that you are able to develop high-quality software.
 
 - You *must* use Typescript
-- You *must* use a state management library
 - You can use any CSS framework you want
 - You can use any state management library you want (Redux, MobX, Zustand, React Query etc.)
 - You can use any routing library you want
