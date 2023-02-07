@@ -39,7 +39,7 @@ software engineering best practices that demonstrate that you are able to develo
 
 - You *must* use Typescript
 - You can use any CSS framework you want
-- You can use any state management library you want (Redux, MobX, Zustand, React Query etc.)
+- You *must* use React Query as a State management library
 - You can use any routing library you want
 - You can use any HTTP client library you want
 
